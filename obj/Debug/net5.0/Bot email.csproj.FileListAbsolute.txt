@@ -1,0 +1,22 @@
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\Bot email.exe
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\Bot email.deps.json
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\Bot email.runtimeconfig.json
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\Bot email.runtimeconfig.dev.json
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\Bot email.dll
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\ref\Bot email.dll
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\Bot email.pdb
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\Bot email.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\Bot email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\Bot email.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\Bot email.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\Bot email.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\Bot email.dll
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\ref\Bot email.dll
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\Bot email.pdb
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\Bot email.genruntimeconfig.cache
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\MailKit.dll
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicolas\Desktop\Bot email\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nicolas\Desktop\Bot email\obj\Debug\net5.0\Bot email.csproj.CopyComplete
