@@ -7,7 +7,6 @@
 <p> Para utilizar é importante configurar antes, inserindo o seu email em >login< e sua senha em >senha<. Outro ponto importante é também colocar o assunto do email em >email_msg['Subject']< e o caminho do arquivo em >caminho 
 </p>
   
-<p> É sempre bom lembrar que antes de utilizar o bot você precisa mudar as configurações de permissão da sua conta GMAIL!!
-  </p>
+ **É sempre bom lembrar que antes de utilizar o bot você precisa mudar as configurações de permissão da sua conta GMAIL!!**
 
   
